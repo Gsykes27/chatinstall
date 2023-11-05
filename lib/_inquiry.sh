@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Instalador whaticket da GS Tech, selecione uma opção!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Whaticket, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar Instancia \n"
-  printf "   [1] Atualizar Instancia\n"
-  printf "   [2] Deletar Instancia\n"
-  printf "   [3] Bloquear Instancia\n"
-  printf "   [4] Desbloquear Instancia\n"
-  printf "   [5] Alterar dominio da Instancia\n"
+  printf "   [0] Instalar Whaticket\n"
+  printf "   [1] Atualizar WhaticketP\n"
+  printf "   [2] Deletar Whaticket\n"
+  printf "   [3] Bloquear WhaticketP\n"
+  printf "   [4] Desbloquear Whaticket\n"
+  printf "   [5] Alter. dominio Whaticket\n"
   printf "\n"
   read -p "> " option
 

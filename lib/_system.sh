@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código Whaticket...${GRAY_LIGHT}"
   printf "\n\n"
 
 
@@ -49,7 +49,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos atualizar o sistema Whaticket...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -71,7 +71,7 @@ EOF
 #######################################
 deletar_tudo() {
   print_banner
-  printf "${WHITE} 💻 Vamos deletar o whaticket...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos deletar o Whaticket...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
