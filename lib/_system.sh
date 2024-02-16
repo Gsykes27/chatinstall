@@ -23,7 +23,7 @@ EOF
 }
 
 #######################################
-# clones repostories using git
+# clones repostories using gitZap-ChatsZap-Chats
 # Arguments:
 #   None
 #######################################
